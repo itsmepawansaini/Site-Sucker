@@ -54,7 +54,7 @@ node index.js
 
 ## Output
 
-All downloaded files will be saved inside the `downloaded-site` folder.  
+All downloaded files will be saved inside the `site` folder.  
 The script keeps the original structure of the website.
 
 ---
